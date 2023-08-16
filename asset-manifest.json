@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/charivna/goit-react-hw-01-components/static/css/main.7acaea2f.css",
-    "main.js": "/charivna/goit-react-hw-01-components/static/js/main.07d3183d.js",
+    "main.js": "/charivna/goit-react-hw-01-components/static/js/main.e47b1657.js",
     "index.html": "/charivna/goit-react-hw-01-components/index.html",
     "main.7acaea2f.css.map": "/charivna/goit-react-hw-01-components/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/charivna/goit-react-hw-01-components/static/js/main.07d3183d.js.map"
+    "main.e47b1657.js.map": "/charivna/goit-react-hw-01-components/static/js/main.e47b1657.js.map"
   },
   "entrypoints": [
     "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/js/main.e47b1657.js"
   ]
 }
