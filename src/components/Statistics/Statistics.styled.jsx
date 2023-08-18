@@ -16,7 +16,11 @@ export const StatList = styled.ul`display: flex;
 
 export const StatItem =styled.li`background-color: ${getRandomHexColor};
     width: 100%;
-    flex-basis: calc((100% - 0px)/5)`
+    padding: 9px;
+    align-items: center;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;`
 
 export const Label = styled.span`font-size: 14px;
     color: white;`
