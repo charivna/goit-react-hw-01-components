@@ -15,6 +15,8 @@ const getActiveColor = props => {
             return "red";
         case true:
             return "green";
+        default:
+            return null
      
     }
 
