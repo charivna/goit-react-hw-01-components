@@ -14,7 +14,7 @@ export const HeadBlock = styled.th`padding: 15px;
 
 export const Line = styled.tr`background-color: #82d4ff40;
 
-    :nth-child(odd) {
+    :nth-of-type(odd) {
   background: white;
 }}`
 
